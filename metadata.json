@@ -1,0 +1,6 @@
+{
+  "name": "Apex CBT Exam Simulator",
+  "description": "Full-featured Computer-Based Test simulator with customizable question banks (up to 200 questions), timed tests up to 1 hour, custom topic generation, and detailed wrong answer review & AI explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
